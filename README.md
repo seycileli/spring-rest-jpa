@@ -1,1 +1,1 @@
-# spring-rest-template
+# spring-rest-jpa-template
